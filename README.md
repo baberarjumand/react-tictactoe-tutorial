@@ -1,3 +1,12 @@
+# React Tic Tac Toe Tutorial
+
+This project contains the code for the basic tic tac toe game found in the React tutorial here:<br>
+https://reactjs.org/tutorial/tutorial.html
+
+The notes below are part of the auto-generated document by the create-react-app utility.
+
+<hr><hr><hr>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
